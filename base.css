@@ -1,0 +1,67 @@
+/*
+
+Project Name: Portfolio - Anjana Jayan
+Client: Personal
+Author: Anjana Jayan K. 
+Developed @ One Month
+
+*/
+
+body {
+    background: url("girl clouds.jpg");
+    background-position: right;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-color: #bd8692;
+    text-align: justify;
+    font-family: 'Lemonada', cursive;
+    font-size: 14px;
+    position: absolute;
+
+}
+
+#container {
+    background: #E0C0C7;
+    width: 480px;
+    height: 800px;
+    /*position: fixed; --> scrolling feature would be removed*/
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+
+a { text-decoration: none; }
+
+h1{
+    font-family: 'Syncopate', sans-serif;
+    text-align: center;
+}
+
+h2{
+    background: #cc667a;
+    padding: 5px;
+    border-radius: 10px;
+    width: 130px;
+    text-align: center;
+    margin-left: 166px;
+}
+
+#credit{
+    font-family: 'Gruppo', cursive;
+    font-weight: bolder;
+}
+
+/*
+
+Fonts tested:
+font-family: 'El Messiri', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Sofia', cursive;
+font-family: 'Gruppo', cursive;
+
+*/
